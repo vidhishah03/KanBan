@@ -20,6 +20,7 @@ By Jeffrey Saltz, Robert Heckman, Kevin Crowston and Yatish Hegde
 ## TECH STACK
 
 * React.js
+* Redux
 * HTML
 * CSS
 
