@@ -27,6 +27,7 @@ By Jeffrey Saltz, Robert Heckman, Kevin Crowston and Yatish Hegde
 ![image](https://user-images.githubusercontent.com/58200995/116129450-c05e6500-a6e7-11eb-8330-64957202f375.png)
 
 ## TO EXECUTE
-npm start
+* Clone the repo on your machine
+* npm start
 
 
