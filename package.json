@@ -1,6 +1,6 @@
 {
-  "homepage": "http://selfdevtv.github.io/trello-clone",
-  "name": "trello-clone",
+  "homepage": "http://selfdevtv.github.io/Kanban-clone",
+  "name": "Kanban-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
